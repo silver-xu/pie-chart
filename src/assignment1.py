@@ -8,7 +8,6 @@ from email.mime.multipart import MIMEMultipart
 from email.utils import parsedate_tz, mktime_tz, formatdate
 
 import requests
-
 from datetime import datetime
 import schedule
 
